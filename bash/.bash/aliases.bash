@@ -45,7 +45,7 @@ alias q="exit"
 
 ## Locations
 ### dotfile
-alias dot="cd /root/.kalidots/"
+alias dot="cd ~/.kalidots/"
 
 ## VPN
 ### HTB
